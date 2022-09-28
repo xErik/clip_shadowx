@@ -1,5 +1,5 @@
 name: clip_shadowx
-description: A new Flutter project.
+description: Adds shadows to `Widget` which is clipped by a `Path`. Applies a `CustomClipper` and a list of `BoxShadows` to a `Widget`.
 version: 0.0.1
 
 repository: https://github.com/xErik/clip_shadowx
